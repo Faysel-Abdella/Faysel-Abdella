@@ -17,7 +17,7 @@
 - 🏢 I'm a Software engineering student at Adama Science and Technology University (ASTU).
 - 💻 And also at this time i'm taking a full-stack(MERN) development internship at 'Kal-bunyan'.
 - 👨‍💻 As a software engineer student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Html, css, JavaScrip, and c++.
+- 💬 Ask me about my experience with Html, css, JavaScrip, React and c++.
 - ⚡ Fact: I love descipline and hard work.
 
 

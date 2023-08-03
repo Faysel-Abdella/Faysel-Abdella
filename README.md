@@ -17,7 +17,7 @@
 - 🏢 I'm a Software engineering student at Adama Science and Technology University (ASTU).
 - 💻 And also at this time i'm taking a full-stack(MERN) development internship at 'Kal-bunyan'.
 - 👨‍💻 As a software engineer student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Html, css, JavaScrip, React and c++.
+- 💬 Ask me about my experience with Html, css, JavaScrip, React, Node.js, Express.js, MongoDb, and c++.
 - ⚡ Fact: I love descipline and hard work.
 
 
@@ -27,9 +27,13 @@
 <a href="https://linkedin.com/in/faysel-abdella-code" target="_blank"><img src="https://img.shields.io/badge/-Faysel%20Abdella-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Theabd" target="_blank"><img src="https://img.shields.io/badge/-Faysel%20DAbdella-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=nodejs)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![MongoDB](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;

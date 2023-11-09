@@ -36,11 +36,14 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nest.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
+![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=C)&nbsp;
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=pyhton)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=C)&nbsp;
+
 
 
 

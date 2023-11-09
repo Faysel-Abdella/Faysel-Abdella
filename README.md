@@ -24,7 +24,7 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/faysel-abdella-code" target="_blank"><img src="https://img.shields.io/badge/-Faysel%20Abdella-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/faysel-code" target="_blank"><img src="https://img.shields.io/badge/-Faysel%20Abdella-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Theabd" target="_blank"><img src="https://img.shields.io/badge/-Faysel%20DAbdella-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;

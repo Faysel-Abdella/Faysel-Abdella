@@ -14,10 +14,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Software-engineering%20student%20at%20ASTU;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software engineering student at Adama Science and Technology University (ASTU).
-- 💻 And also at this time i'm working as a freelancer at Upwork.
-- 👨‍💻 As a software engineer student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Html, css, JavaScrip, Typescript, React, Node.js, Express.js, MongoDb, python and C++.
+- 🏢 I'm an expert Full-Stack developer, 
+- 💻 i'm working as a freelancer at Upwork.
+- 👨‍💻 As a software engineer, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with Html, css, JavaScrip, Typescript, React, Node.js, Express.js, MongoDb, python, C++, MySQL, Sequilize.
 - ⚡ Fact: I love descipline and hard work.
 
 
@@ -40,6 +40,7 @@
 ![MongoDB](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
 ![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=pyhton)&nbsp;
+![MySQL](https://img.shields.io/badge/-Mysql%20-05122A?style=flat&logo=mysql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;

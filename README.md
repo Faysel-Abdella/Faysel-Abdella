@@ -15,7 +15,6 @@
 </p> 
 
 - 🏢 I'm an expert Full-Stack developer, 
-- 💻 i'm working as a freelancer at Upwork.
 - 👨‍💻 As a software engineer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Html, css, JavaScrip, Typescript, React, Node.js, Express.js, MongoDb, python, C++, MySQL, Sequilize.
 - ⚡ Fact: I love descipline and hard work.

@@ -11,12 +11,12 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Software-engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software-engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm an expert Full-Stack developer, 
-- 👨‍💻 As a software engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Html, css, JavaScrip, Typescript, React, Node.js, Express.js, MongoDb, python, C++, MySQL, Sequilize.
+- 🏢 I'm a software engineer focusing on Full-Stack and AI. 
+- 👨‍💻 As a software engineer, I'm constantly delivering values to the world, learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with full-stack, AI and Automation.
 - ⚡ Fact: I love descipline and hard work.
 
 

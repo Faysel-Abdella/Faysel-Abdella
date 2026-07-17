@@ -17,8 +17,6 @@
 - 🏢 I'm a software engineer focusing on Full-Stack and AI. 
 - 👨‍💻 As a software engineer, I'm constantly delivering values to the world, learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with full-stack, AI and Automation.
-- ⚡ Fact: I love descipline and hard work.
-
 
 
 ### Connect with Me :
